@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬Telegram: https://t.me/swarzeritter
-- 🤔Discord: !swarzeritter#1457
+- 🤔Discord: swz#0909
 <!--
 **swarzeritter/swarzeritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
